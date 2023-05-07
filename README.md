@@ -2,7 +2,7 @@
 
 ### Trabajo Final de MYSQL Bootcamp Full-stack Java Talento Digital
 
-#### Intengrantes:
+#### Integrantes:
 * Christopher López
 * Diego Ortiz
 * Joshua Vargas
